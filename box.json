@@ -1,0 +1,68 @@
+{
+    "name":"SSL Support Interceptor v3",
+    "version":"3.0.0",
+    "author":"Akitogo",
+    "location":"https://github.com/akitogo/ssl-support-interceptor-v3/archive/master.zip",
+    "homepage":"http://www.akitogo.com",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/akitogo/ssl-support-interceptor-v3.git"
+    },
+    "bugs":"",
+    "slug":"ssl-support-interceptor-v3",
+    "shortDescription":"Rewritten SSL interceptor using moduleConfig settings",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"interceptors",
+    "keywords":[
+        
+    ],
+    "private":false,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"Apache 2",
+            "URL":"https://github.com/akitogo/ssl-support-interceptor-v3/blob/master/LICENSE"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "scripts":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":"",
+        "reporter":"",
+        "bundles":"",
+        "recurse":true,
+        "directory":"tests.specs",
+        "testBundles":"",
+        "testSuites":"",
+        "testSpecs":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    }
+}

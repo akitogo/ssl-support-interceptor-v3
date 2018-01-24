@@ -4,6 +4,9 @@ Authors: Luis Majano, Ernst van der Linden, Paul Marcotte
 
 Rewritten by Akitogo Internet and Media Applications GmbH
 
+Based on
+https://github.com/ColdBox/cbox-interceptors/tree/master/ssl
+
 Based on the ssl interceptor originally developed by Ernst van der Linden 
 (http://evdlinden.behindthe.net/index.cfm/2008/1/22/ColdBox-SSL-Interceptor-2--SSL-for-specific-events-only) 
 
